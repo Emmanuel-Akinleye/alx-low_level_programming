@@ -3,8 +3,8 @@
 
 int main(void)
 {	
-	char text[50];
-	strcpy(text, "Programming is like building a multilingual puzzel\n");
+	char text[100];
+	strcpy(text, "Programming is like building a multilingual puzzle\n");
 	puts(text);
 	return 0;
 }
