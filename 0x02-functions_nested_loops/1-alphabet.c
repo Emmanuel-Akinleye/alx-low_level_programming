@@ -15,7 +15,7 @@ return (0);
  *
  * Return: Void
 */
-int print_alphabet(void)
+void print_alphabet(void)
 {
 char alpha;
 for (alpha = 'a';  alpha <= 'z';  alpha++)
