@@ -8,5 +8,6 @@ int _strlen(char *s);
 int _putchar(char c);
 void puts2(char *str);
 void _puts(char *str);
+void puts_half(char *str);
 #endif
 
