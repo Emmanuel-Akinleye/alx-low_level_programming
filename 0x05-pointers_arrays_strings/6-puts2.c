@@ -14,4 +14,5 @@ printf("%c", *str);
 }
 str++;
 }
+printf("\n");
 }
