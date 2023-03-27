@@ -16,5 +16,4 @@ for (i = length / 2; i < length; i++)
 {
 printf("%c", str[i]);
 }
-_putchar('\n');
 }
