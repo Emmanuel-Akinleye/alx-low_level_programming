@@ -1,9 +1,17 @@
 #include "main.h"
 #include <string.h>
 #include <stdio.h>
-#define MAX_STRING_LENGTH 100
 
 void puts2(char *str)
 {
 
+int i;
+for(i = 0; *str != '\0'; i++)
+{
+if(i % 2 == 0)
+{
+printf("%c", *str);
+}
+str++;
+}
 }
