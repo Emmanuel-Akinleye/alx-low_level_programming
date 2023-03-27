@@ -14,7 +14,7 @@ int i;
 for (i = 0; i < n; i++)
 {
 printf("%d ", *(a + i));
-if (*(a + i) == -1024)
+if (*(a + i) == -98)
 {
 break;
 }
