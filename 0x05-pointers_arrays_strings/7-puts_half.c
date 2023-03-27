@@ -16,4 +16,5 @@ for (i = length / 2; i < length; i++)
 {
 printf("%c", str[i]);
 }
+printf("\n");
 }
